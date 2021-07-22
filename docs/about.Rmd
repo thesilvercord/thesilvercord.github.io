@@ -1,7 +1,6 @@
 ---
-title: "My Homepage"
+title: "About"
 
 ---
 
-Bob Vance, Vance refridgeration 
-
+# About my website
